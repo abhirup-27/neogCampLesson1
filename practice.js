@@ -32,6 +32,17 @@ else{
 }
 
 //Seventh
+{
+  let x= 25;
+}
 
+console.log(x);    //gives reference error
+
+//Eighth
+{
+  var x= 25;
+}
+
+console.log(x);  //won't give reference error
 
 
