@@ -32,6 +32,16 @@ else{
 }
 
 //Seventh
+{
+  let x= 25;
+}
+
+console.log(x);    //gives reference error
+
+//Eighth
+{
+  var x= 25;
+}
 
 var readLineSync = require('readline-sync');
 var answer = readLineSync.question('Am I from bokaro ? ');
