@@ -68,3 +68,6 @@ arrayOfNumber = answer.split(',');
 console.log(arrayOfNumber)
 var sumOfTwo = sumOfTwo(parseInt(arrayOfNumber[0]),parseInt(arrayOfNumber[1]))
 console.log(sumOfTwo);
+
+
+//ninth
